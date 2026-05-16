@@ -12,7 +12,7 @@
 ### Hi there, I'm Shayon 👋
 
 **Computer Science Student · 2nd Year @ Swansea University**  
-**Frontend Developer · Based in the UK 🏴󠁧󠁢󠁷󠁬󠁳󠁿**
+**Software Developer · Based in the UK 🏴󠁧󠁢󠁷󠁬󠁳󠁿**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shayon--dhar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayon-dhar/)
 [![Profile Views](https://komarev.com/ghpvc/?username=shayondhar&style=flat-square&color=0e75b6)](https://github.com/ShayonDhar)

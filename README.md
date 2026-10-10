@@ -11,7 +11,7 @@
 
 ### Hi there, I'm Shayon 👋
 
-**Computer Science Student · 2nd Year @ Swansea University**  
+**Computer Science Student · 3rd Year @ Swansea University**  
 **Software Developer · Based in the UK 🏴󠁧󠁢󠁷󠁬󠁳󠁿**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shayon--dhar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayon-dhar/)
@@ -23,7 +23,7 @@
 
 ## About Me
 
-I'm a second-year CS student at Swansea University with a passion for building things that are both functional and well-crafted. I enjoy working across the stack — from designing Java backends with Spring Boot to building interfaces with React. Currently sharpening my skills in React + Vite and exploring full-stack development.
+I'm a third-year CS student at Swansea University with a passion for building things that are both functional and well-crafted. I enjoy working across the stack — from designing Java backends with Spring Boot to building interfaces with React. Currently sharpening my skills in Flutter and exploring LLM integration to chess related applications.
 
 - 🔭 **Currently building:** [Aelwyd — Welsh Property Affordability API](https://github.com/ShayonDhar/wales-mortgage-calculator) *(Spring Boot + PostgreSQL + React frontend incoming)*
 - 🌱 **Currently learning:** React + Vite
